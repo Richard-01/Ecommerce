@@ -1,0 +1,26 @@
+
+body{
+ 
+    text-align: center;
+  }
+
+.usericon {
+    background-color: transparent !important; 
+    color: #ffffff !important;
+    border-color: transparent !important;
+    margin-top: 10%;
+    text-align: center !important;
+    display: inline;
+  }
+  
+  .prueba{
+    
+    display: inline;
+  }
+  
+
+  .pruebita{
+   margin-top: 3%;/*
+   padding-top: 80%;*/
+  }
+  

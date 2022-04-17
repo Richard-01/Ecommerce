@@ -1,0 +1,23 @@
+
+.headtable, td{
+    text-align: center;    
+    vertical-align: middle !important;
+}
+
+.botones{
+    text-align: left;
+    
+} 
+.img-thumbnail{
+    min-width: 100px;
+}
+@media screen and (max-width: 600px){
+.img-thumbnail{
+    min-width: 200px;
+}
+}
+
+
+footer {
+    width:100%;
+}
